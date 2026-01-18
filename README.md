@@ -1,5 +1,9 @@
 # 🍅 精英番茄钟 Pro
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/zhuxii-sys/pomodoro_timer)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/zhuxii-sys/pomodoro_timer/pulls)
+
 一个简易的番茄工作法计时器，采用现代化设计，帮助你提高工作效率和专注力。
 
 [English](#english) | [中文](#中文)
