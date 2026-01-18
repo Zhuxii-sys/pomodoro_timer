@@ -50,7 +50,7 @@
 
 #### 在线使用
 
-访问 (https://zhuxii-sys.github.io/pomodoro_timer/) 直接使用
+访问 https://zhuxii-sys.github.io/pomodoro_timer/ 直接使用
 
 #### 本地使用
 
@@ -188,7 +188,7 @@ cd pomodoro-timer
 
 #### Online Use
 
-Visit (https://zhuxii-sys.github.io/pomodoro_timer/) to use directly 
+Visit https://zhuxii-sys.github.io/pomodoro_timer/ to use directly 
 
 #### Local Use
 
